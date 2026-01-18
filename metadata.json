@@ -1,0 +1,14 @@
+{
+  "name": "Mizo Candle Pro",
+  "description": "Artisanal handcrafted candles with AI-powered creative suite.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "short_name": "Mizo",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#f59e0b"
+}
